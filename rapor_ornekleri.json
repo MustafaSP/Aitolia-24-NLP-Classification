@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "text": "Her iki memeden CC ve MLO mammogramları elde olunmuştur. Her iki memede skleroze dens displazik parankim paterni izlenmiştir. USG önerilir. Her iki memede patolojik mikrokalsifikasyon veya yer kaplayan lezyon saptanmadı. Her iki aksiller bölgede patolojik boyutta lenf nodu izlenmedi. Sonuç: BIRADS kategori 0 (ek tetkike ihtiyaç var)",
+    "label": [
+      [0, 28, "PROC"],
+      [29, 54, "ANAT"],
+      [55, 91, "OBS-PRESENT"],
+      [92, 104, "RECOMMENDATION"],
+      [105, 153, "OBS-ABSENT"],
+      [154, 205, "OBS-ABSENT"],
+      [206, 242, "IMPRESSION"]
+    ],
+    "comments": []
+  },
+  {
+    "id": 2,
+    "text": "Kraniokaudal (CC) ve mediolateral oblik (MLO) projeksiyonlarda alınan grafilerde; Her iki meme Tip C dansite paternindedir (heterojen dens). Patern nedeniyle mamografik duyarlılık düşüktür. Sağ memede üst-orta kesim ve alt dış kadranda nodüler opasiteler izlendi. USG’de saat 12-1 hizasında areolaya 1 cm uzaklıkta 9x3.5 mm boyutunda pektoral kas komşuluğunda derin yerleşimli saat 5-7 hizasında areolaya 1.5 cm uzaklıkta 12.5x4 mm boyutunda, saat 11 hizasında areolaya 3 cm uzaklıkta 8x2.5 mm boyutunda yüksek olasılıkla benign BIRADS 3 solid lezyonlara karşılık gelmektedir. Sonuç: BIRADS 3",
+    "label": [
+      [0, 70, "PROC"],
+      [71, 108, "ANAT"],
+      [109, 162, "OBS-PRESENT"],
+      [163, 222, "OBS-PRESENT"],
+      [223, 290, "OBS-PRESENT"],
+      [291, 295, "PROC"],
+      [296, 441, "OBS-PRESENT"],
+      [442, 465, "IMPRESSION"]
+    ],
+    "comments": []
+  },
+  {
+    "id": 3,
+    "text": "Her iki meme cilt ve cilt altı kalınlıkları normaldir. Meme parankimleri hiposkleroze ve heterojen paterndedir. Bilateral retroareolar duktuslarda dilatasyon saptanmadı. Sol memede saat 12 hizasında areola komşuluğunda 11x7 mm, üst dış kadranda 10x5.5 mm, 4x3 mm boyutlarında düzgün sınırlı anekoik kist izlendi. Sonuç: BIRADS 2.",
+    "label": [
+      [0, 53, "OBS-PRESENT"],
+      [54, 104, "OBS-PRESENT"],
+      [105, 142, "OBS-ABSENT"],
+      [143, 234, "OBS-PRESENT"],
+      [235, 249, "IMPRESSION"]
+    ],
+    "comments": []
+  },
+  {
+    "id": 4,
+    "text": "Sağ meme saat 9 hizasında yaklaşık 8x7x7.2 mm boyutunda minimal düzensiz sınırlı hipoekoik yuvarlak şekilli solid lezyon izlendi. Renkli Doppler incelemede belirgin vaskülarizasyon saptanmadı Sonuç: BIRADS 4",
+    "label": [
+      [0, 136, "OBS-PRESENT"],
+      [137, 187, "OBS-ABSENT"],
+      [188, 199, "IMPRESSION"]
+    ],
+    "comments": []
+  },
+  {
+    "id": 5,
+    "text": "Sağ memede üst dış kadranda areola komşuluğunda en büyüğü 5x2.5 mm boyutlarında olan birkaç adet anekoik kist izlendi. Sonuç: BIRADS 2",
+    "label": [
+      [0, 100, "OBS-PRESENT"],
+      [101, 115, "IMPRESSION"]
+    ],
+    "comments": []
+  },
+  {
+    "id": 6,
+    "text": "Sol memede büyüğü üst iç kadranda yaklaşık 19x14 mm (SUVmaks: 14.5) boyutlarında olmak üzere üst iç ve alt iç kadranda multipl odaklarda (>7) multifokal/multisentrik primer meme malignitesi ile uyumlu fokal FDG akümülasyonları dikkati çekmiştir. Sol aksillada Level I, II ve III’de büyüğünün uzun aksı 18 mm olarak ölçülen multipl lenf nodlarında belirgin metabolik aktivite (SUVmaks: 16.5) dikkati çekmiştir. Solda 1. interkostal aralık seviyesinde parasternal alanda FDG tutulumu gösteren yaklaşık 10 mm çaplı internal mammarian lenf nodu dikkati çekmiştir. Sonuç: BIRADS 5",
+    "label": [
+      [0, 154, "OBS-PRESENT"],
+      [155, 255, "OBS-PRESENT"],
+      [256, 352, "OBS-PRESENT"],
+      [353, 365, "IMPRESSION"]
+    ],
+    "comments": []
+  },
+  {
+    "id": 7,
+    "text": "Sağ meme üst-orta bölümde saat 12 düzeyinde areolaya yaklaşık 4-5 cm mesafede, yaklaşık boyutları 18 x 10 mm olarak ölçülen, duktal traseyi takip eden, mikrolobüle konturlu, düzensiz sınırlı, difüzyon ağırlıklı serilerde kısmen difüzyon kısıtlığı gösteren, kitlesel kontrast tutulumu mevcuttur. Tanımlanan kontrast tutulumunun meme başına doğru retroareolar-subareolar alana kadar nodüler kontrast tutulumu şeklinde duktal tutulumlar olarak devam ettiği görülmüştür (DCIS komponenti?). Sonuç: BIRADS 5",
+    "label": [
+      [0, 298, "OBS-PRESENT"],
+      [299, 388, "OBS-PRESENT"],
+      [389, 400, "IMPRESSION"]
+    ],
+    "comments": []
+  },
+  {
+    "id": 8,
+    "text": "Bilateral meme cilt, cilt altı dokusu normaldir. Fibroglanüler doku ve duktal yapılar belirgindir. Sol meme saat 12 hizasında 4 mm çapında, saat 3 hizasında 4 mm çapında, saat 9 hizasında 4 mm, 4 mm ve 4 mm çapında, düzgün konturlu, ince duvarlı anekoik kist mevcuttur. Sol meme saat 12 hizasında 8x4x8 mm boyutlu ve saat 1 hizasında 4 mm çapında, düzgün konturlu, hipoekoik görünüm izlenmekte olup yoğun içerikli veya fibroadenoma ait olduğu düşünüldü. Sağ meme saat 3 hizasında 3 mm ve saat 9 hizasında 3 mm çapında, düzgün konturlu, ince duvarlı, anekoik kist saptandı. Sağ meme saat 1 hizasında 15x6x15 mm boyutlu, düzgün konturlu, hipoekoik görünüm izlenmekte olup yoğun içerikli kist veya fibroadenoma ait olduğu düşünüldü. Sağ aksillada 21x7 mm ve sol aksillada 11x5 mm boyutlu, ovoid konfigürasyonda, ekojen hilusu ayırt edilebilen reaktif lenf nodu izlenmektedir. Sonuç: BIRADS 3.",
+    "label": [
+      [0, 55, "OBS-PRESENT"],
+      [56, 103, "OBS-PRESENT"],
+      [104, 298, "OBS-PRESENT"],
+      [299, 472, "OBS-PRESENT"],
+      [473, 535, "OBS-PRESENT"],
+      [536, 614, "OBS-PRESENT"],
+      [615, 625, "IMPRESSION"]
+    ],
+    "comments": []
+  },
+  {
+    "id": 9,
+    "text": "Sağ memede saat 5-4 hizasında periferk yerleşimli yaklaşık 5x4 cm boyutlarında pektoral kasdan sınırları ayrılamayan hafif vaskülarite gösteren heterojen hipoekoik kitle lezyonu mevcuttur (BIRADS 5). Ayrıca sağ meme saat 2 hizasında areolaya 3 cm mesafede diğer lezyon, yaklaşık 4 cm süperiorunda 1x0.7 cm boyutlarında lobüle sınırlı hipoekoik kitle lezyonu mevcuttur (BIRADS 4). Sağ aksillada büyüğünün kısa aksı 1.4 cm olarak ölçülen, yaklaşık 3-4 adet metastatik özelliklerde lenfadenopati mevcuttur.",
+    "label": [
+      [0, 145, "OBS-PRESENT"],
+      [146, 228, "OBS-PRESENT"],
+      [229, 303, "OBS-PRESENT"],
+      [304, 315, "IMPRESSION"]
+    ],
+    "comments": []
+  },
+  {
+    "id": 10,
+    "text": "Her iki memede dağınık yerleşimli 5 mm'den küçük basit kist-fibrokistler izlenmiştir. Bilateral retroareolar alanda duktuslar hafif belirgindir. Sol meme de saat 2-3 hizasında areolaya 3 cm uzaklıkta 5.5x2.5 mm boyutunda fibrokistik odak izlendi. Her iki aksillada patolojik lenfadenopati ya da kitle görünümü izlenmedi. Sonuç: BIRADS 3",
+    "label": [
+      [0, 54, "OBS-PRESENT"],
+      [55, 97, "OBS-PRESENT"],
+      [98, 155, "OBS-PRESENT"],
+      [156, 206, "OBS-ABSENT"],
+      [207, 218, "IMPRESSION"]
+    ],
+    "comments": []
+  },
+  {
+    "id": 11,
+    "text": "Sağ memede üst-orta kesim ve alt dış kadranda nodüler opasiteler izlendi. USG'de saat 12-1 hizasında areolaya 1 cm uzaklıkta 9x3.5 mm boyutunda pektoral kas komşuluğunda derin yerleşimli, saat 5-7 hizasında areolaya 1.5 cm uzaklıkta 12.5x4 mm boyutunda, saat 11 hizasında areolaya 3 cm uzaklıkta 8x2.5 mm boyutunda yüksek olasılıkla benign BIRADS 3 solid lezyonlara karşılık gelmektedir.",
+    "label": [
+      [0, 60, "OBS-PRESENT"],
+      [61, 235, "OBS-PRESENT"],
+      [236, 251, "IMPRESSION"]
+    ],
+    "comments": []
+  },
+  {
+    "id": 12,
+    "text": "Meme paterni tip \"C\"dir. Fibroglanüler dokulardan zengin meme paterni izlenmiştir. Bilateral cilt, cilt altı ve nipple-areolar kompleksler doğaldır. Hastanın meme USG ile değerlendirilmesi önerilir. Bilateral memede net demarke yer kaplayan oluşum ve malign kriterler taşıyan mikrokalsifikasyon kümesi izlenmedi. Bilateral aksiller bölgelerde lenf nodları izlendi.",
+    "label": [
+      [0, 87, "OBS-PRESENT"],
+      [88, 136, "OBS-PRESENT"],
+      [137, 179, "RECOMMENDATION"],
+      [180, 254, "OBS-ABSENT"],
+      [255, 292, "OBS-PRESENT"],
+      [293, 301, "IMPRESSION"]
+    ],
+    "comments": []
+  },
+  {
+    "id": 13,
+    "text": "Sol meme üst dış kadran saat 12-1 hizasında 5x4 mm, komşuluğunda milimetrik boyutta kistler ve saat 3 hizasında 5x2 mm boyutlu mikrokist kümesi izlenmiştir.",
+    "label": [
+      [0, 125, "OBS-PRESENT"],
+      [126, 136, "IMPRESSION"]
+    ],
+    "comments": []
+  },
+  {
+    "id": 14,
+    "text": "Sağ meme üst dış kadranda, göğüs duvarından meme başına dek uzanım gösteren, duktal bir hat boyunca yaklaşık 10 cm'lik segment boyunca uzanım gösteren asimetrik doku alanı izlenmiştir. US incelemede bu alanda, en büyüğü periareolar saat 12 hizasında 9.5x10.5 mm ölçülen, yuvarlak şekilli, düzgün konturlu, hipoekoik, çok sayıda nodüler lezyon izlenmiştir. Lezyonlar Doppler US'de yüksek vaskülarizasyon göstermekte olup elastografide düşük-orta sertlik derecelerindedir. Bulgular BI-RADS 4B.",
+    "label": [
+      [0, 317, "OBS-PRESENT"],
+      [318, 401, "OBS-PRESENT"],
+      [402, 413, "IMPRESSION"]
+    ],
+    "comments": []
+  }
+]
